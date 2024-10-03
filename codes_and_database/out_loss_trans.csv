@@ -1,0 +1,386 @@
+﻿Column1,序號,詞語,等別,級別,情境,書面字頻(每百萬字),口語字頻(每百萬字),簡編本系統號,參考注音,參考漢語拼音,warning,definition
+38,39,和,基礎,第1級,核心詞,5437,2135,"[['和', ['19016', '19190', '19725', '19883', '20369', '20436']]]",ㄏㄢˋ / ㄏㄜˊ,hàn/hé,TRUE,"(joining two nouns) and; together with; with (Taiwan pr. [han4]), (math.) sum, to make peace, (sports) to draw, to tie, (bound form) harmonious, (bound form) Japan; Japanese "
+125,126,臺灣人/台灣人,基礎,第1級,1.個人資料,5,11,[],ㄊㄞˊ ㄨㄢ  ㄖㄣˊ  ,táiwānrén,FALSE,Taiwanese
+532,533,台/臺,基礎,第2級,核心詞,127,241,"[['台', ['40317']], ['臺', ['10062']]]",ㄊㄞˊ ,tái,FALSE,"platform, stage, terrace, stand, support, station, broadcasting station, classifier for vehicles or machines "
+1420,1421,沒(有)用,進階,第4級,核心詞,0,0,[],ㄇㄟˊ (ㄧㄡˇ) ㄩㄥˋ,méi(yǒu)yòng,FALSE,useless
+1525,1526,一邊(兒),進階,第4級,核心詞,137,65,[],ㄧˋ ㄅㄧㄢ(ㄦ),yìbiān(r),FALSE,"one side, either side, on the one hand, on the other hand, doing while"
+1624,1625,巷口,進階,第4級,2.日常起居,3,1,[],ㄒㄧㄤˋ ㄎㄡˇ,xiàngkǒu,FALSE,entrance to an alley
+1826,1827,中文系,進階,第4級,8.教育、學習,3,3,[],ㄓㄨㄥ ㄨㄣˊ ㄒㄧˋ,zhōngwénxì,FALSE,Chinese department
+2246,2247,拉鍊,進階,第4*級,9.購物、商店,2,0,"[['拉鍊', ['13167']]]",ㄌㄚ ㄌㄧㄢˋ,lāliàn,FALSE,zipper
+2512,2513,吸菸,進階,第4*級,2.日常起居,6,2,"[['吸菸', ['26248']]]",ㄒㄧ ㄧㄢ,xīyān,FALSE,to smoke (tobacco)
+3709,3710,看診,進階,第5級,7.身體、醫療,6,10,"[['看診', ['45269']]]",ㄎㄢˋ ㄓㄣˇ,kànzhěn,FALSE,"(of a doctor) to see a patient; to give a consultation, (of a patient) to see a doctor "
+3781,3782,冷冰冰,進階,第5級,16.情緒、態度,4,3,"[['冷冰冰', ['13864']]]",ㄌㄥˇ ㄅㄧㄥ ㄅㄧㄥ,lěngbīngbīng,FALSE,very cold; describe an indifferent attitude
+4044,4045,評量,進階,第5級,8.教育、學習,20,4,"[['評量', ['3378']]]",ㄆㄧㄥˊ ㄌㄧㄤˊ,píngliáng,FALSE,to evaluate
+4062,4063,奇蹟,進階,第5級,核心詞,31,24,"[['奇蹟', ['24507']]]",ㄑㄧˊ ㄐㄧ,qíjī,FALSE,"miracle, wonder, marvel"
+4073,4074,企業界,進階,第5級,3.職業,13,6,[],ㄑㄧˋ ㄧㄝˋ ㄐㄧㄝˋ,qìyèjiè,FALSE,corporate world
+4236,4237,傻事,進階,第5級,核心詞,3,1,"[['傻事', ['33876']]]",ㄕㄚˇ ㄕˋ,shǎshì,FALSE,stupid thing
+4252,4253,上鎖,進階,第5級,2.日常起居,4,1,[],ㄕㄤˋ ㄙㄨㄛˇ,shàngsuǒ,FALSE,"to lock, to be locked "
+4276,4277,身旁,進階,第5級,核心詞,33,5,[],ㄕㄣ ㄆㄤˊ,shēnpáng,FALSE,beside of one's body
+4339,4340,石子,進階,第5級,13.自然環境,7,1,[],ㄕˊ ˙ㄗ,shízi,FALSE,"stone, pebble"
+4417,4418,痠痛,進階,第5級,7.身體、醫療,8,5,"[['痠痛', ['39229']]]",ㄙㄨㄢ ㄊㄨㄥˋ,suāntòng,FALSE,soreness and pain
+4418,4419,算帳,進階,第5級,核心詞,3,1,"[['算帳', ['39248']]]",ㄙㄨㄢˋ ㄓㄤˋ,suànzhàng,FALSE,to settle an account
+4648,4649,舞台劇,進階,第5級,4.休閒、娛樂,5,5,[],ㄨˇㄊㄞˊㄐㄩˋ,wǔtáijù,FALSE,stage play
+4694,4695,閒逛,進階,第5級,4.休閒、娛樂,5,1,"[['閒逛', ['27367']]]",ㄒㄧㄢˊ ㄍㄨㄤˋ,xiánguàng,FALSE,walk around aimlessly.
+4700,4701,限量,進階,第5級,9.購物、商店,2,3,"[['限量', ['27504', '27505']]]",ㄒㄧㄢˋ ㄌㄧㄤˋ,xiànliàng,FALSE,limited quantity
+4722,4723,項鍊,進階,第5級,9.購物、商店,8,8,"[['項鍊', ['28083']]]",ㄒㄧㄤˋ ㄌㄧㄢˋ,xiàngliàn,FALSE,necklace (項鏈)
+4756,4757,新進,進階,第5級,3.職業,8,4,"[['新進', ['27752']]]",ㄒㄧㄣ ㄐㄧㄣˋ,xīnjìn,FALSE,"new to the department, new to official career, or just appointed"
+4986,4987,原來如此,進階,第5級,核心詞,7,6,"[['原來如此', ['44759']]]",ㄩㄢˊ ㄌㄞˊ ㄖㄨˊ ㄘˇ,yuánláirúcǐ,FALSE,(idiom) so that's how it is; I see
+5139,5140,之餘,進階,第5級,核心詞,23,9,[],ㄓ ㄩˊ,zhīyú,FALSE,remainder of
+5223,5224,轉帳,進階,第5級,11.公共服務,1,1,"[['轉帳', ['30984']]]",ㄓㄨㄢˇ ㄓㄤˋ,zhuǎnzhàng,FALSE,to transfer (money to a bank account) (轉賬)
+5549,5550,長久以來,精熟,第6級,,14,7,[],ㄔㄤˊ ㄐㄧㄡˇ ㄧˇ ㄌㄞˊ,chángjiǔyǐlái,FALSE,It's been a long time.
+5561,5562,超乎,精熟,第6級,,11,4,[],ㄔㄠ ㄏㄨ,chāohū,FALSE,exceeding
+5656,5657,觸控,精熟,第6級,,2,14,[],ㄔㄨˋ ㄎㄨㄥˋ,chùkòng,FALSE,touchscreen
+5763,5764,大夥兒,精熟,第6級,,12,3,"[['大夥兒', ['7150']]]",ㄉㄚˋ ㄏㄨㄛˇㄦ,dàhuǒr,FALSE,everyone
+5768,5769,大開眼界,精熟,第6級,,3,3,"[['大開眼界', ['7121']]]",ㄉㄚˋ ㄎㄞ ㄧㄢˇ ㄐㄧㄝˋ,dàkāiyǎnjiè,FALSE,to increase your knowledge and broaden your horizons
+5776,5777,大勢,精熟,第6級,,7,1,"[['大勢', ['7308']]]",ㄉㄚˋ ㄕˋ,dàshì,FALSE,overall situation; high status and powerful; large scale and large quantity
+5906,5907,動線,精熟,第6級,,2,4,"[['動線', ['45260']]]",ㄉㄨㄥˋ ㄒㄧㄢˋ,dòngxiàn,FALSE,walking line
+5951,5952,多采多姿,精熟,第6級,,4,2,"[['多采多姿', ['9415']]]",ㄉㄨㄛ ㄘㄞˇ ㄉㄨㄛ ㄗ,duōcǎiduōzī,FALSE,"describes the variety of postures and bright and charming colors. Later it was extended to mean that the content is rich, gorgeous and varied."
+5956,5957,多加,精熟,第6級,,8,6,[],ㄉㄨㄛ ㄐㄧㄚ,duōjiā,FALSE,"be more (e.g. careful, as in 多加小心)"
+6012,6013,氾濫,精熟,第6級,,7,12,"[['氾濫', ['5651']]]",ㄈㄢˋ ㄌㄢˋ,fànlàn,FALSE,to flow across the river and overflows everywhere; a metaphor for the abnormal growth or excessive proliferation of things
+6211,6212,隔年,精熟,第6級,,9,13,[],ㄍㄜˊ ㄋㄧㄢˊ,génián,FALSE,the next year
+6647,6648,艱困,精熟,第6級,,5,8,"[['艱困', ['22856']]]",ㄐㄧㄢ ㄎㄨㄣˋ,jiānkùn,FALSE,hard times; hardships
+6719,6720,藉機,精熟,第6級,,5,3,"[['藉機', ['22282']]]",ㄐㄧㄝˋ ㄐㄧ,jièjī,FALSE,to take advantage of opportunities
+6723,6724,街角,精熟,第6級,,5,1,"[['街角', ['22039']]]",ㄐㄧㄝ ㄐㄧㄠˇ,jiējiǎo,FALSE,the corner of the street
+6738,6739,結實,精熟,第6級,,13,7,"[['結實', ['22044', '22090']]]",ㄐㄧㄝˊ ㄕˊ,jiéshí,TRUE,strong; to be certain
+6784,6785,僅有,精熟,第6級,,16,7,"[['僅有', ['23233']]]",ㄐㄧㄣˇ ㄧㄡˇ,jǐnyǒu,FALSE,only
+6799,6800,經理人,精熟,第6級,,33,1,[],ㄐㄧㄥ ㄌㄧˇ ㄖㄣˊ,jīnglǐrén,FALSE,manager
+6858,6859,居於,精熟,第6級,,7,1,[],ㄐㄩ ㄩˊ,jūyú,FALSE,to reside in
+6945,6946,空檔,精熟,第6級,,9,8,"[['空檔', ['18909', '18977']]]",ㄎㄨㄥˋ ㄉㄤˇ,kòngdǎng,TRUE,gap (between two objects); interval of time (between events); opening in one's schedule; free time; (fig.) gap (in the market etc)
+7354,7355,年齡層,精熟,第6級,,6,4,"[['年齡層', ['12784']]]",ㄋㄧㄢˊ ㄌㄧㄥˊ ㄘㄥˊ,niánlíngcéng,FALSE,generation gap
+7377,7378,暖身,精熟,第6級,,3,2,"[['暖身', ['12990']]]",ㄋㄨㄢˇ ㄕㄣ,nuǎnshēn,FALSE,to warm up before exercise
+7402,7403,徬徨,精熟,第6級,,7,4,"[['徬徨', ['2860']]]",ㄆㄤˊ ㄏㄨㄤˊ,pánghuáng,FALSE,"to linger, to hesitate"
+7684,7685,取自,精熟,第6級,,5,2,[],ㄑㄩˇ ㄗˋ,qǔzì,FALSE,retrieved from
+7817,7818,閃閃發光,精熟,第6級,,7,1,"[['閃閃發光', ['34496']]]",ㄕㄢˇ ㄕㄢˇ ㄈㄚ ㄍㄨㄤ,shǎnshǎnfāguāng,FALSE,to light brightly; describes a prosperous career. 
+7841,7842,上上下下,精熟,第6級,,4,2,"[['上上下下', ['34942']]]",ㄕㄤˋ ㄕㄤˋ ㄒㄧㄚˋ ㄒㄧㄚˋ,shàngshàngxiàxià,FALSE,everyone in the group from top to bottom; from head to foot
+7861,7862,涉入,精熟,第6級,,6,2,[],ㄕㄜˋ ㄖㄨˋ,shèrù,FALSE,to wade into; involvement
+7945,7946,事蹟,精熟,第6級,,15,5,"[['事蹟', ['33653']]]",ㄕˋ ㄐㄧ,shìjī,FALSE,something that an individual or group has done
+7981,7982,視聽,精熟,第6級,,4,3,"[['視聽', ['33552']]]",ㄕˋ ㄊㄧㄥ,shìtīng,FALSE,knowledge; visual and auditory 
+8090,8091,說穿,精熟,第6級,,6,3,"[['說穿', ['35538']]]",ㄕㄨㄛ ㄔㄨㄢ,shuōchuān,FALSE,to explain clearly; to unravel the secrets; to tell the truth openly
+8097,8098,四海,精熟,第6級,,9,2,"[['四海', ['38655']]]",ㄙˋ ㄏㄞˇ,sìhǎi,FALSE,everywhere in the world
+8142,8143,隨從,精熟,第6級,,13,0,"[['隨從', ['39193', '39194']]]",ㄙㄨㄟˊ ㄗㄨㄥˋ,suízòng,TRUE,followers
+8162,8163,台階,精熟,第6級,,13,3,[],ㄊㄞˊ ㄐㄧㄝ,táijiē,FALSE,stair
+8479,8480,席次,精熟,第6級,,2,4,"[['席次', ['26359']]]",ㄒㄧˊ ㄘˋ,xícì,FALSE,seating order; number of seats a political group occupies in parliament
+8513,8514,下文,精熟,第6級,,5,2,"[['下文', ['26667']]]",ㄒㄧㄚˋ ㄨㄣˊ,xiàwén,FALSE,the text below this article; the continuation or result of something
+8594,8595,笑咪咪,精熟,第6級,,3,2,"[['笑咪咪', ['27135']]]",ㄒㄧㄠˋ ㄇㄧ ㄇㄧ,xiàomīmī,FALSE,smiling look
+8628,8629,心安,精熟,第6級,,4,2,[],ㄒㄧㄣ ㄢ,xīnān,FALSE,no worries
+8671,8672,興起,精熟,第6級,,23,13,"[['興起', ['28157', '28343']]]",ㄒㄧㄥˋ ㄑㄧˇ,xìngqǐ,TRUE,to grow and prosper
+8895,8896,依序,精熟,第6級,,7,3,"[['依序', ['40278']]]",ㄧ ㄒㄩˋ,yīxù,FALSE,"in order, in sequence"
+8904,8905,譯註,精熟,第6級,,23,0,[],ㄧˋ ㄓㄨˋ,yìzhù,FALSE,translation and annotation of ancient documents
+8945,8946,用兵,精熟,第6級,,8,0,"[['用兵', ['45092']]]",ㄩㄥˋ ㄅㄧㄥ,yòngbīng,FALSE,to call on men and horses to engage in combat
+9044,9045,源源不絕,精熟,第6級,,5,7,"[['源源不絕', ['44818']]]",ㄩㄢˊ ㄩㄢˊ ㄅㄨˋ ㄐㄩㄝˊ,yuányuánbùjué,FALSE,continuously
+9072,9073,在在,精熟,第6級,,8,4,"[['在在', ['37085']]]",ㄗㄞˋ ㄗㄞˋ,zàizài,FALSE,everywhere
+9076,9077,讚歎,精熟,第6級,,5,2,[],ㄗㄢˋ ㄊㄢˋ,zàntàn,FALSE,to praise
+9228,9229,致勝,精熟,第6級,,6,1,"[['致勝', ['29278']]]",ㄓˋ ㄕㄥˋ,zhìshèng,FALSE,to win
+9239,9240,知性,精熟,第6級,,6,1,"[['知性', ['28958']]]",ㄓ ㄒㄧㄥˋ,zhīxìng,FALSE,possessing qualities such as knowledge and rationality
+9267,9268,重責大任,精熟,第6級,,3,1,"[['重責大任', ['31333']]]",ㄓㄨㄥˋ ㄗㄜˊ ㄉㄚˋ ㄖㄣˋ,zhòngzédàrèn,FALSE,a great responsibility
+9292,9293,助人,精熟,第6級,,12,10,"[['助人', ['30669']]]",ㄓㄨˋ ㄖㄣˊ,zhùrén,FALSE,to help others
+9381,9382,自知,精熟,第6級,,11,1,[],ㄗˋ ㄓ,zìzhī,FALSE,to understand oneself
+9385,9386,縱,精熟,第6級,,19,3,"[['縱', ['37678', '37736']]]",ㄗㄨㄥ,zōng,TRUE,footprints; traces
+9439,9440,愛恨,精熟,第7級,,3,2,[],ㄞˋㄏㄣˋ,àihèn,FALSE,love-hate relationship
+9443,9444,礙於,精熟,第7級,,4,3,[],ㄞˋ ㄩˊ,àiyú,FALSE,to be constrained by; due to (a constraining factor)
+9492,9493,拔腿就跑,精熟,第7級,,2,0,"[['拔腿就跑', ['49']]]",ㄅㄚˊ ㄊㄨㄟˇ ㄐㄧㄡˋ ㄆㄠˇ,bátuǐjiùpǎo,FALSE,run quickly; run away frightened or embarrassed
+9501,9502,擺盪,精熟,第7級,,4,4,"[['擺盪', ['396']]]",ㄅㄞˇ ㄉㄤˋ,bǎidàng,FALSE,to swing or shake
+9514,9515,百態,精熟,第7級,,2,3,[],ㄅㄞˇ ㄊㄞˋ,bǎitài,FALSE,various forms
+9534,9535,包覆,精熟,第7級,,4,5,"[['包覆', ['45197']]]",ㄅㄠ ㄈㄨˋ,bāofù,FALSE,"to cover, to contain"
+9565,9566,悲情,精熟,第7級,,3,5,"[['悲情', ['519']]]",ㄅㄟ ㄑㄧㄥˊ,bēiqíng,FALSE,sad emotion
+9571,9572,備感,精熟,第7級,,3,1,[],ㄅㄟˋㄍㄢˇ,bèigǎn,FALSE,immersed feeling
+9594,9595,閉口,精熟,第7級,,3,1,[],ㄅㄧˋㄎㄡˇ,bìkǒu,FALSE,to keep your mouth shut and not speak or express your opinion
+9595,9596,畢露,精熟,第7級,,3,0,[],ㄅㄧˋ ㄌㄨˋ,bìlù,FALSE,to completely reveal
+9600,9601,閉目,精熟,第7級,,3,0,[],ㄅㄧˋ ㄇㄨˋ,bìmù,FALSE,to close one's eyes
+9627,9628,遍野,精熟,第7級,,4,3,[],ㄅㄧㄢˋ ㄧㄝˇ,biànyě,FALSE,everywhere in the wilderness
+9719,9720,布條,精熟,第7級,,3,4,"[['布條', ['2351']]]",ㄅㄨˋ ㄊㄧㄠˊ,bùtiáo,FALSE,cloth cut into strips
+9747,9748,採收,精熟,第7級,,5,75,"[['採收', ['38004']]]",ㄘㄞˇ ㄕㄡ,cǎishōu,FALSE,to pick; to collect
+9760,9761,參訪,精熟,第7級,,4,12,[],ㄘㄢ ㄈㄤˇ,cānfǎng,FALSE,to investigate; to visit
+9782,9783,草創,精熟,第7級,,3,3,"[['草創', ['38084']]]",ㄘㄠˇ ㄔㄨㄤˋ,cǎochuàng,FALSE,"drafting, creating"
+9811,9812,纏鬥,精熟,第7級,,3,1,"[['纏鬥', ['31947']]]",ㄔㄢˊ ㄉㄡˋ,chándòu,FALSE,fierce fighting
+9820,9821,摻雜,精熟,第7級,,4,1,"[['摻雜', ['31911']]]",ㄔㄢ ㄗㄚˊ,chānzá,FALSE,to mix
+9823,9824,長程,精熟,第7級,,3,2,"[['長程', ['32145']]]",ㄔㄤˊ ㄔㄥˊ,chángchéng,FALSE,a long trip
+9833,9834,長篇大論,精熟,第7級,,3,1,"[['長篇大論', ['32105']]]",ㄔㄤˊ ㄆㄧㄢ ㄉㄚˋ ㄌㄨㄣˋ,chángpiāndàlùn,FALSE,a eloquent speech or an extremely long article
+9852,9853,朝政,精熟,第7級,,9,0,"[['朝政', ['31780']]]",ㄔㄠˊ ㄓㄥˋ,cháozhèng,FALSE,power of politics of an imperial court
+9854,9855,扯上,精熟,第7級,,4,1,[],ㄔㄜˇㄕㄤˋ,chěshàng,FALSE,be associated with
+9897,9898,稱奇,精熟,第7級,,2,0,[],ㄔㄥ ㄑㄧˊ,chēngqí ,FALSE,to praise wonderfully
+9962,9963,愁容,精熟,第7級,,3,1,"[['愁容', ['31861']]]",ㄔㄡˊ ㄖㄨㄥˊ,chóuróng,FALSE,a sad face
+9969,9970,出關,精熟,第7級,,2,2,[],ㄔㄨ ㄍㄨㄢ,chūguān,FALSE,to exit the border crossing
+9999,10000,串連,精熟,第7級,,4,10,[],ㄔㄨㄢˋ ㄌㄧㄢˊ,chuànlián,FALSE,to establish ties; to contact (electricity); to connect (components) in series (串聯)
+10028,10029,純然,精熟,第7級,,3,1,"[['純然', ['32928']]]",ㄔㄨㄣˊ ㄖㄢˊ,chúnrán,FALSE,completely
+10042,10043,辭彙,精熟,第7級,,4,0,"[['辭彙', ['37829']]]",ㄘˊ ㄏㄨㄟˋ,cíhuì,FALSE,vocabulary
+10068,10069,粗聲粗氣,精熟,第7級,,1,0,[],ㄘㄨ ㄕㄥ ㄘㄨ ㄑㄧˋ,cūshēngcūqì,FALSE,loud and rude speech
+10079,10080,存疑,精熟,第7級,,4,1,"[['存疑', ['38425']]]",ㄘㄨㄣˊ ㄧˊ,cúnyí,FALSE,(as for the questions that are still doubtful) to leave them undecided
+10104,10105,大老,精熟,第7級,,4,1,"[['大老', ['7064']]]",ㄉㄚˋ ㄌㄠˇ,dàlǎo,FALSE,a person who is virtuous and admired by others
+10116,10117,大手筆,精熟,第7級,,2,1,"[['大手筆', ['7313']]]",ㄉㄚˋ ㄕㄡˇ ㄅㄧˇ,dàshǒubǐ,FALSE,great work or author; a person who spends a lot of money; to start a large-scale business
+10123,10124,大相逕庭,精熟,第7級,,2,1,"[['大相逕庭', ['7229']]]",ㄉㄚˋ ㄒㄧㄤ ㄐㄧㄥˋ ㄊㄧㄥˊ,dàxiāngjìngtíng,FALSE,completely different
+10150,10151,旦夕,精熟,第7級,,4,1,[],ㄉㄢˋ ㄒㄧˋ,dànxì,FALSE,sooner or later; a metaphor that the time is short
+10155,10156,當差,精熟,第7級,,3,0,"[['當差', ['8053']]]",ㄉㄤ ㄔㄞ,dāngchāi,FALSE,a small official or servant who was sent by others; being sent around by others; to take charge of something in a certain place 
+10161,10162,當頭棒喝,精熟,第7級,,2,1,"[['當頭棒喝', ['8029']]]",ㄉㄤ ㄊㄡˊ ㄅㄤˋ ㄏㄜˋ,dāngtóubànghè,FALSE,a wake-up call
+10166,10167,倒過來,精熟,第7級,,3,3,[],ㄉㄠˋ ㄍㄨㄛˋ ㄌㄞˊ,dàoguòlái,FALSE,to turn upside down; to turn over; to sell (goods)
+10200,10201,敵不過,精熟,第7級,,2,1,[],ㄉㄧˊㄅㄨˊㄍㄨㄛˋ,díbúguò,FALSE,fail to conquer; be defeated by; less superior
+10275,10276,棟樑,精熟,第7級,,1,0,[],ㄉㄨㄥˋ ㄌㄧㄤˊ,dòngliáng,FALSE,"beams of the house, a metaphor for people who bear important responsibilities for the country (棟梁)"
+10311,10312,獨門,精熟,第7級,,3,2,"[['獨門', ['9226']]]",ㄉㄨˊ ㄇㄣˊ,dúmén,FALSE,a certain skill or secret unique to one person or one family: a unique skill.
+10317,10318,獨享,精熟,第7級,,2,1,"[['獨享', ['9254']]]",ㄉㄨˊ ㄒㄧㄤˇ,dúxiǎng,FALSE,to enjoy something alone without sharing it with anyone
+10324,10325,端視,精熟,第7級,,3,0,[],ㄉㄨㄢ ㄕˋ,duānshì,FALSE,to look carefully
+10350,10351,多難,精熟,第7級,,3,2,"[['多難', ['9382']]]",ㄉㄨㄛ ㄋㄢˋ,duōnàn,FALSE,frequent disasters
+10406,10407,泛黃,精熟,第7級,,2,2,[],ㄈㄢˋ ㄏㄨㄤˊ,fànhuáng,FALSE,yellowing phenomenon of a painting or papers
+10440,10441,非比尋常,精熟,第7級,,4,2,[],ㄈㄟ ㄅㄧˇ ㄒㄩㄣˊ ㄔㄤˊ,fēibǐxúncháng,FALSE,unusual
+10470,10471,分工合作,精熟,第7級,,3,3,"[['分工合作', ['5735']]]",ㄈㄣ ㄍㄨㄥ ㄏㄜˊ ㄗㄨㄛˋ,fēngōnghézuò,FALSE,The act of assigning one thing to multiple people to do and they are keeping close contact with each other to complete it together.
+10473,10474,分際,精熟,第7級,,3,1,[],ㄈㄣˋ ㄐㄧˋ,fènjì,FALSE,separating boundary; to separate
+10499,10500,豐功偉業,精熟,第7級,,2,1,"[['豐功偉業', ['6223']]]",ㄈㄥ ㄍㄨㄥ ㄨㄟˇ ㄧㄝˋ,fēnggōngwěiyè,FALSE,great achievements
+10547,10548,浮生,精熟,第7級,,3,1,"[['浮生', ['6377']]]",ㄈㄨˊ ㄕㄥ,fúshēng,FALSE,life
+10571,10572,概略,精熟,第7級,,2,0,"[['概略', ['16032']]]",ㄍㄞˋ ㄌㄩㄝˋ,gàilüè,FALSE,roughly; approximately
+10612,10613,高照,精熟,第7級,,3,2,[],ㄍㄠ ㄓㄠˋ,gāozhào,FALSE,shining brightly
+10625,10626,擱下,精熟,第7級,,3,0,"[['擱下', ['15833']]]",ㄍㄜ ㄒㄧㄚˋ,gēxià,FALSE,to lay down; to stop midway; can be accepted
+10633,10634,根深柢固,精熟,第7級,,4,1,"[['根深柢固', ['16483']]]",ㄍㄣ ㄕㄣ ㄉㄧˇ ㄍㄨˋ,gēnshēndǐgù,FALSE,(root) to grow deep and strong; the foundation is solid and unbreakable. 
+10634,10635,根植,精熟,第7級,,2,0,[],ㄍㄣ ㄓˊ,gēnzhí,FALSE,to take root
+10642,10643,更形,精熟,第7級,,4,2,[],ㄍㄥˋ ㄒㄧㄥˊ,gèngxíng,FALSE,
+10663,10664,功勳,精熟,第7級,,4,0,[],ㄍㄨㄥ ㄒㄩㄣ,gōngxūn,FALSE,meritorious contributions to the country and society
+10668,10669,攻佔,精熟,第7級,,5,1,[],ㄍㄨㄥ ㄓㄢˋ,gōngzhàn,FALSE,capture and occupy (攻占)
+10689,10690,孤軍,精熟,第7級,,6,8,"[['孤軍', ['16657']]]",ㄍㄨ ㄐㄩㄣ,gūjūn,FALSE,an isolated army
+10690,10691,孤苦,精熟,第7級,,2,2,"[['孤苦', ['16652']]]",ㄍㄨ ㄎㄨˇ,gūkǔ,FALSE,"without support, poor life"
+10703,10704,鼓足,精熟,第7級,,2,1,[],ㄍㄨˇㄗㄨˊ,gǔzú,FALSE,the legs of the drum stand
+10720,10721,關鍵點,精熟,第7級,,3,2,[],ㄍㄨㄢ ㄐㄧㄢˋㄉㄧㄢˇ,guānjiàndiǎn,FALSE,crucial point
+10735,10736,慣於,精熟,第7級,,3,0,[],ㄍㄨㄢˋ ㄩˊ,guànyú,FALSE,be used to sth.
+10736,10737,觀照,精熟,第7級,,6,2,"[['觀照', ['17396']]]",ㄍㄨㄢ ㄓㄠˋ,guānzhào,FALSE,"Buddhist language, refers to observing the world quietly and seeing things with wisdom"
+10737,10738,觀眾席,精熟,第7級,,4,2,[],ㄍㄨㄢ ㄓㄨㄥˋㄒㄧˊ,guānzhòngxí,FALSE,auditorium
+10739,10740,光采,精熟,第7級,,3,1,[],ㄍㄨㄤ ㄘㄞˇ,guāngcǎi,FALSE,radiance and color; glory; shiny and gorgeous
+10764,10765,圭臬,精熟,第7級,,2,1,[],ㄍㄨㄟ ㄋㄧㄝˋ,guīniè,FALSE,"sundial, a metaphor for laws and regulations."
+10782,10783,過路財神,精熟,第7級,,0,0,"[['過路財神', ['17103']]]",ㄍㄨㄛˋ ㄌㄨˋ ㄘㄞˊ ㄕㄣˊ,guòlùcáishén,FALSE,an illustration of someone who temporarily handles a large amount of property that is not theirs. 
+10810,10811,寒顫,精熟,第7級,,3,1,"[['寒顫', ['19671']]]",ㄏㄢˊ ㄓㄢˋ,hánzhàn,FALSE,to shiver with cold.
+10862,10863,黑漆漆,精熟,第7級,,2,3,"[['黑漆漆', ['19353']]]",ㄏㄟ ㄑㄧ ㄑㄧ,hēiqīqī,FALSE,pitch-dark
+10877,10878,轟隆隆,精熟,第7級,,3,1,[],ㄏㄨㄥ ㄌㄨㄥˊㄌㄨㄥˊ,hōnglónglóng,FALSE,"describes the sound of thunder, cannons, explosions, machinery, etc."
+10890,10891,後患,精熟,第7級,,3,1,"[['後患', ['19578']]]",ㄏㄡˋ ㄏㄨㄢˋ,hòuhuàn,FALSE,future trouble
+10990,10991,毀於一旦,精熟,第7級,,0,0,"[['毀於一旦', ['20606']]]",ㄏㄨㄟˇ ㄩˊ ㄧ ㄉㄢˋ,huǐyúyīdàn,FALSE,"be swept away overnight, be destroyed in a moment"
+10992,10993,迴路,精熟,第7級,,15,4,[],ㄏㄨㄟˊㄌㄨˋ,huílù,FALSE,circuit
+11022,11023,獲益良多,精熟,第7級,,0,0,[],ㄏㄨㄛˋ ㄧˋ ㄌㄧㄤˊ ㄉㄨㄛ,huòyìliángduō,FALSE,to benefit a lot
+11027,11028,集大成,精熟,第7級,,2,1,[],ㄐㄧˊ ㄉㄚˋ ㄔㄥˊ,jídàchéng,FALSE,to gather various opinions into a complete doctrine
+11032,11033,嫉惡如仇,精熟,第7級,,1,0,"[['嫉惡如仇', ['21468']]]",ㄐㄧˊ ㄜˋ ㄖㄨˊ ㄔㄡˊ,jíèrúchóu,FALSE,(idiom) to hate evil as one hates an enemy
+11045,11046,擊垮,精熟,第7級,,3,1,[],ㄐㄧˊ ㄎㄨㄚˇ,jíkuǎ,FALSE,to strike down
+11055,11056,擊破,精熟,第7級,,4,1,"[['擊破', ['21509']]]",ㄐㄧˊ ㄆㄛˋ,jípò,FALSE,"to defeat, to conquer"
+11056,11057,記取,精熟,第7級,,3,4,"[['記取', ['21606']]]",ㄐㄧˋ ㄑㄩˇ,jìqǔ,FALSE,to remember
+11107,11108,家務事,精熟,第7級,,4,1,[],ㄐㄧㄚ ㄨˋ ㄕˋ,jiāwùshì,FALSE,"daily routines at home,  conflicts in the family"
+11136,11137,健將,精熟,第7級,,3,1,"[['健將', ['23040']]]",ㄐㄧㄢˋ ㄐㄧㄤˋ,jiànjiàng,FALSE,"a brave general who is good at fighting, a master of sports or competitive activities"
+11139,11140,艱鉅,精熟,第7級,,4,4,"[['艱鉅', ['22858']]]",ㄐㄧㄢ ㄐㄩˋ,jiānjù,FALSE,"arduous, difficult"
+11149,11150,艱澀,精熟,第7級,,3,1,"[['艱澀', ['22862']]]",ㄐㄧㄢ ㄙㄜˋ,jiānsè,FALSE,difficult
+11163,11164,健在,精熟,第7級,,3,2,"[['健在', ['23046']]]",ㄐㄧㄢˋ ㄗㄞˋ,jiànzài,FALSE,"a sound and intact existence, refers mostly to people. "
+11180,11181,交疊,精熟,第7級,,4,1,[],ㄐㄧㄠ ㄉㄧㄝˊ,jiāodié,FALSE,to reduce length or volume by folding or overlapping
+11207,11208,叫座,精熟,第7級,,3,0,"[['叫座', ['22513']]]",ㄐㄧㄠˋ ㄗㄨㄛˋ,jiàozuò,FALSE,"to have the ability to appeal and fill the seats with customers, generally referred to as art performances, etc., which were deeply loved and appreciated by the masses. "
+11219,11220,藉故,精熟,第7級,,2,1,"[['藉故', ['22280']]]",ㄐㄧㄝˋ ㄍㄨˋ,jiègù,FALSE,to pretend to get into an accident
+11244,11245,街友,精熟,第7級,,1,3,[],ㄐㄧㄝ ㄧㄡˇ,jiēyǒu,FALSE,homeless people
+11250,11251,接踵而至,精熟,第7級,,2,1,[],ㄐㄧㄝ ㄓㄨㄥˇ ㄦˊ ㄓˋ,jiēzhǒngérzhì,FALSE,one after another; continuous
+11252,11253,藉助,精熟,第7級,,4,3,"[['藉助', ['22283']]]",ㄐㄧㄝˋ ㄓㄨˋ,jièzhù,FALSE,relying on the help of others or things
+11266,11267,金光閃閃,精熟,第7級,,0,0,[],ㄐㄧㄣ ㄍㄨㄤ ㄕㄢˇ ㄕㄢˇ,jīnguāngshǎnshǎn,FALSE,brilliant; dazzling; sparkling
+11275,11276,筋疲力竭,精熟,第7級,,5,1,"[['筋疲力竭', ['23217']]]",ㄐㄧㄣ ㄆㄧˊ ㄌㄧˋ ㄐㄧㄝˊ,jīnpílìjié,FALSE,very tired
+11277,11278,盡其所能,精熟,第7級,,2,1,[],ㄐㄧㄣˋ ㄑㄧˊ ㄙㄨㄛˇ ㄋㄥˊ,jìnqísuǒnéng,FALSE,to do the best of your ability
+11283,11284,盡失,精熟,第7級,,4,1,[],ㄐㄧㄣˋ ㄕ,jìnshī,FALSE,"totally lost, completely gone"
+11288,11289,浸淫,精熟,第7級,,4,1,"[['浸淫', ['23314']]]",ㄐㄧㄣˋ ㄧㄣˊ,jìnyín,FALSE,to penetrate; to gradually get closer
+11289,11290,金銀財寶,精熟,第7級,,4,1,[],ㄐㄧㄣ ㄧㄣˊㄘㄞˊ ㄅㄠˇ,jīnyíncáibǎo,FALSE,money and treasures (generally refers to money)
+11292,11293,緊張兮兮,精熟,第7級,,2,1,[],ㄐㄧㄣˇ ㄓㄤ ㄒㄧ ㄒㄧ,jǐnzhāngxīxī,FALSE,being too easy to nervous
+11294,11295,緊追不捨,精熟,第7級,,2,0,"[['緊追不捨', ['23261']]]",ㄐㄧㄣˇ ㄓㄨㄟ ㄅㄨˋ ㄕㄜˇ,jǐnzhuībùshě,FALSE,to follow closely behind and refuse to give up (e.g. when a police catches a thief)
+11332,11333,井水,精熟,第7級,,3,1,[],ㄐㄧㄥˇ ㄕㄨㄟˇ,jǐngshuǐ,FALSE,water from a well
+11338,11339,驚豔,精熟,第7級,,3,4,"[['驚豔', ['45214']]]",ㄐㄧㄥ ㄧㄢˋ,jīngyàn,FALSE,"be marvel at the beauty (of women’s appearance, of things)"
+11384,11385,局外人,精熟,第7級,,4,1,"[['局外人', ['23894']]]",ㄐㄩˊ ㄨㄞˋ ㄖㄣˊ,júwàirén,FALSE,a person who has nothing to do with; outsider
+11386,11387,鉅細靡遺,精熟,第7級,,4,2,"[['鉅細靡遺', ['23997']]]",ㄐㄩˋ ㄒㄧˋ ㄇㄧˇ ㄧˊ,jùxìmǐyí,FALSE,to do things very carefully
+11402,11403,決然,精熟,第7級,,3,5,"[['決然', ['24102']]]",ㄐㄩㄝˊ ㄖㄢˊ,juérán,FALSE,"resolute, definitive, undoubtedly"
+11403,11404,絕少,精熟,第7級,,2,1,[],ㄐㄩㄝˊ ㄕㄠˇ,juéshǎo,FALSE,"very little, very few"
+11420,11421,據以,精熟,第7級,,3,0,[],ㄐㄩˋㄧˇ,jùyǐ,FALSE,according to
+11432,11433,慨然,精熟,第7級,,2,0,"[['慨然', ['18236']]]",ㄎㄞˇ ㄖㄢˊ,kǎirán,FALSE,with deep feeling
+11452,11453,克敵,精熟,第7級,,3,1,"[['克敵', ['18030']]]",ㄎㄜˋ ㄉㄧˊ,kèdí,FALSE,to defeat the enemy
+11469,11470,空檔,精熟,第7級,,9,8,"[['空檔', ['18909', '18977']]]",ㄎㄨㄥˋ ㄉㄤˇ,kòngdǎng,TRUE,"gap (between two objects)​, interval of time (between events)​, opening in one's schedule, free time, (fig.)​ gap (in the market etc)​"
+11492,11493,苦讀,精熟,第7級,,4,3,[],ㄎㄨˇ ㄉㄨˊ,kǔdú,FALSE,to study hard
+11495,11496,枯黃,精熟,第7級,,2,3,[],ㄎㄨ ㄏㄨㄤˊ,kūhuáng,FALSE,yellow and withered (e.g. for autumn leaves)
+11512,11513,誇讚,精熟,第7級,,4,1,"[['誇讚', ['18636']]]",ㄎㄨㄚ ㄗㄢˋ,kuāzàn,FALSE,to praise
+11531,11532,綑綁,精熟,第7級,,3,3,"[['綑綁', ['18824']]]",ㄎㄨㄣˇ ㄅㄤˇ,kǔnbǎng,FALSE,to tie with rope; to constrain; to bind
+11534,11535,困難重重,精熟,第7級,,2,3,[],ㄎㄨㄣˋ ㄋㄢˊㄔㄨㄥˊ ㄔㄨㄥˊ,kùnnánchóngchóng,FALSE,to have many difficulties in doing something
+11539,11540,來來往往,精熟,第7級,,2,2,"[['來來往往', ['13278']]]",ㄌㄞˊ ㄌㄞˊ ㄨㄤˇ ㄨㄤˇ,láiláiwǎngwǎng,FALSE,frequent visits
+11542,11543,來勢洶洶,精熟,第7級,,2,3,[],ㄌㄞˊ ㄕˋ ㄒㄩㄥ ㄒㄩㄥ,láishìxiōngxiōng,FALSE,describes the grand arrival of things or actions
+11557,11558,牢不可破,精熟,第7級,,2,0,"[['牢不可破', ['13425']]]",ㄌㄠˊ ㄅㄨˋ ㄎㄜˇ ㄆㄛˋ,láobùkěpò,FALSE,firm and unbreakable; describes things or ideas that are fixed and difficult to break or change
+11596,11597,歷久不衰,精熟,第7級,,3,1,"[['歷久不衰', ['14260']]]",ㄌㄧˋ ㄐㄧㄡˇ ㄅㄨˋ ㄕㄨㄞ,lìjiǔbùshuāi,FALSE,lasts for a long time without fading
+11610,11611,立意,精熟,第7級,,3,3,"[['立意', ['14166']]]",ㄌㄧˋ ㄧˋ,lìyì,FALSE,"to conceptualize; to come up with the central idea, concept; central idea, to be determined (to do sth)"
+11612,11613,立於,精熟,第7級,,4,0,[],ㄌㄧˋ ㄩˊ,lìyú,FALSE,be located at
+11621,11622,連根拔起,精熟,第7級,,0,0,"[['連根拔起', ['14636']]]",ㄌㄧㄢˊ ㄍㄣ ㄅㄚˊ ㄑㄧˇ,liángēnbáqǐ,FALSE,to uproot
+11640,11641,兩頰,精熟,第7級,,3,1,"[['兩頰', ['15010']]]",ㄌㄧㄤˇ ㄐㄧㄚˊ,liǎngjiá,FALSE,left and right cheeks
+11682,11683,凜然,精熟,第7級,,3,1,"[['凜然', ['14922']]]",ㄌㄧㄣˇ ㄖㄢˊ,lǐnrán,FALSE,"an upright attitude, a strict personality"
+11685,11686,領兵,精熟,第7級,,6,0,[],ㄌㄧㄥˇ ㄅㄧㄥ,lǐngbīng,FALSE,to lead the troops
+11772,11773,邁開,精熟,第7級,,3,1,[],ㄇㄞˋ ㄎㄞ,màikāi,FALSE,"to take a step, to start walking out"
+11790,11791,莽夫,精熟,第7級,,2,0,[],ㄇㄤˇ ㄈㄨ,mǎngfū,FALSE,a reckless man
+11799,11800,卯足,精熟,第7級,,2,2,[],ㄇㄠˇ ㄗㄨˊ,mǎozú,FALSE,
+11811,11812,門縫,精熟,第7級,,4,1,"[['門縫', ['4235']]]",ㄇㄣˊ ㄈㄥˋ,ménfèng,FALSE,door gap
+11814,11815,悶氣,精熟,第7級,,3,2,"[['悶氣', ['4272', '4225']]]",ㄇㄣˋ ㄑㄧˋ,mènqì,FALSE,the resentment trapped in the chest
+11875,11876,明快,精熟,第7級,,3,1,"[['明快', ['4889']]]",ㄇㄧㄥˊ ㄎㄨㄞˋ,míngkuài,FALSE,"cheerful and straightforward; clear and smooth, not obscure and rigid"
+11888,11889,明說,精熟,第7級,,3,0,[],ㄇㄧㄥˊ ㄕㄨㄛ,míngshuō,FALSE,say it frankly
+11898,11899,莫測,精熟,第7級,,3,1,[],ㄇㄛˋ ㄘㄜˋ,mòcè,FALSE,unpredictable
+11926,11927,母性,精熟,第7級,,3,1,"[['母性', ['4971']]]",ㄇㄨˇ ㄒㄧㄥˋ,mǔxìng,FALSE,the mother’s instinct to love and protect her children
+11944,11945,難言,精熟,第7級,,2,1,[],ㄋㄢˊ ㄧㄢˊ,nányán,FALSE,cannot be expressed in words
+11996,11997,偶發,精熟,第7級,,4,1,"[['偶發', ['39663']]]",ㄡˇ ㄈㄚ,ǒufā,FALSE,happens by chance; accidental
+12042,12043,蓬頭,精熟,第7級,,3,3,[],ㄆㄥˊ ㄊㄡˊ,péngtóu,FALSE,disheveled hair
+12073,12074,飄蕩,精熟,第7級,,3,1,"[['飄蕩', ['3090']]]",ㄆㄧㄠ ㄉㄤˋ,piāodàng,FALSE,to wander in the air or on the water; drifting and turbulent
+12102,12103,平衡點,精熟,第7級,,3,7,[],ㄆㄧㄥˊ ㄏㄥˊ ㄉㄧㄢˇ,pínghéngdiǎn,FALSE,equilibrium point
+12104,12105,評鑑,精熟,第7級,,12,9,"[['評鑑', ['3383']]]",ㄆㄧㄥˊ ㄐㄧㄢˋ,píngjiàn,FALSE,to evaluate the planning and implementation results as a reference for improvement
+12112,12113,平心靜氣,精熟,第7級,,3,1,"[['平心靜氣', ['3331']]]",ㄆㄧㄥˊ ㄒㄧㄣ ㄐㄧㄥˋ ㄑㄧˋ,píngxīnjìngqì,FALSE,a peaceful mood; a calm attitude
+12119,12120,頗負盛名,精熟,第7級,,0,0,[],ㄆㄛˇㄈㄨˋㄕㄥˋ ㄇㄧㄥˊ,pǒfùshèngmíng,FALSE,quite famous
+12128,12129,剖開,精熟,第7級,,3,2,"[['剖開', ['2738']]]",ㄆㄡˇ ㄎㄞ,pǒukāi,FALSE,to cut 
+12142,12143,淒慘,精熟,第7級,,4,1,"[['淒慘', ['24384']]]",ㄑㄧ ㄘㄢˇ,qīcǎn,FALSE,desolate and miserable
+12177,12178,起舞,精熟,第7級,,7,0,[],ㄑㄧˇ ㄨˇ,qǐwǔ,FALSE,get up and dance
+12183,12184,起疑,精熟,第7級,,4,0,"[['起疑', ['24611']]]",ㄑㄧˇ ㄧˊ,qǐyí,FALSE,to create doubt
+12232,12233,前座,精熟,第7級,,3,1,[],ㄑㄧㄢˊ ㄗㄨㄛˋ,qiánzuò,FALSE,front seat (e.g. in a car)
+12235,12236,強固,精熟,第7級,,3,0,[],ㄑㄧㄤˊ ㄍㄨˋ,qiánggù,FALSE,strong and stable
+12253,12254,巧遇,精熟,第7級,,3,3,"[['巧遇', ['24924']]]",ㄑㄧㄠˇ ㄩˋ,qiǎoyù,FALSE,run into someone or something by chance
+12279,12280,勤於,精熟,第7級,,3,2,[],ㄑㄧㄣˊ ㄩˊ,qínyú,FALSE,diligent in
+12291,12292,輕忽,精熟,第7級,,5,4,"[['輕忽', ['25687']]]",ㄑㄧㄥ ㄏㄨ,qīnghū,FALSE,to neglect 
+12304,12305,傾身,精熟,第7級,,3,0,[],ㄑㄧㄥ ㄕㄣ,qīngshēn,FALSE,"to lean forward, describes being humble and respectful to others, to do one's utmost "
+12319,12320,請益,精熟,第7級,,2,1,"[['請益', ['25821']]]",ㄑㄧㄥˇ ㄧˋ,qǐngyì,FALSE,"to request more detailed and clear guidance, to ask for some more"
+12333,12334,求診,精熟,第7級,,3,4,"[['求診', ['25007']]]",ㄑㄧㄡˊ ㄓㄣˇ,qiúzhěn,FALSE,to seek treatment
+12343,12344,屈膝,精熟,第7級,,3,0,"[['屈膝', ['25858']]]",ㄑㄩ ㄒㄧ,qūxī,FALSE,to kneel; metaphor of surrender 
+12368,12369,趨前,精熟,第7級,,3,0,[],ㄑㄩㄑㄧㄢˊ,qūqiántuìhòu,FALSE,to incline body forward
+12381,12382,人本,精熟,第7級,,5,2,[],ㄖㄣˊ ㄅㄣˇ,rénběn,FALSE,humanism
+12383,12384,人和,精熟,第7級,,4,2,"[['人和', ['36100']]]",ㄖㄣˊ ㄏㄜˊ,rénhé,FALSE,unity and harmony between people
+12384,12385,人跡,精熟,第7級,,3,1,"[['人跡', ['36104']]]",ㄖㄣˊ ㄐㄧ,rénjī,FALSE,human trace
+12385,12386,人來人往,精熟,第7級,,2,1,[],ㄖㄣˊ ㄌㄞˊ ㄖㄣˊ ㄨㄤˇ,rénláirénwǎng,FALSE,people coming and going
+12386,12387,人面,精熟,第7級,,3,6,[],ㄖㄣˊ ㄇㄧㄢˋ,rénmiàn,FALSE,people face; people
+12400,12401,日曬,精熟,第7級,,3,9,[],ㄖˋ ㄕㄞˋ,rìshài,FALSE,sundried
+12417,12418,如常,精熟,第7級,,3,1,"[['如常', ['36342']]]",ㄖㄨˊ ㄔㄤˊ,rúcháng,FALSE,as usual
+12445,12446,三思,精熟,第7級,,4,1,"[['三思', ['38912']]]",ㄙㄢ ㄙ,sānsī,FALSE,to think twice
+12466,12467,殺身,精熟,第7級,,4,1,"[['殺身', ['33849']]]",ㄕㄚ ㄕㄣ,shāshēn,FALSE,to give up one's life; to lose one's life
+12482,12483,擅於,精熟,第7級,,4,1,[],ㄕㄢˋ ㄩˊ,shànyú,FALSE,specialize in
+12487,12488,上策,精熟,第7級,,3,1,"[['上策', ['34947']]]",ㄕㄤˋ ㄘㄜˋ,shàngcè,FALSE,a clever strategy or method
+12495,12496,上昇,精熟,第7級,,4,1,[],ㄕㄤˋ ㄕㄥ,shàngshēng,FALSE,to rise
+12507,12508,燒毀,精熟,第7級,,7,6,"[['燒毀', ['34038']]]",ㄕㄠ ㄏㄨㄟˇ,shāohuǐ,FALSE,burned down
+12510,12511,稍作,精熟,第7級,,2,1,[],ㄕㄠ ㄗㄨㄛˋ,shāozuò,FALSE,slightly
+12518,12519,涉水,精熟,第7級,,4,6,[],ㄕㄜˋ ㄕㄨㄟˇ,shèshuǐ,FALSE,to wade through the water 
+12521,12522,設限,精熟,第7級,,3,3,"[['設限', ['33986']]]",ㄕㄜˋ ㄒㄧㄢˋ,shèxiàn,FALSE,to set scope or boundaries
+12534,12535,深覺,精熟,第7級,,2,1,[],ㄕㄣ ㄐㄩㄝˊ,shēnjué,FALSE,to realize
+12536,12537,神迷,精熟,第7級,,3,0,[],ㄕㄣˊ ㄇㄧˊ,shén​mí,FALSE,
+12542,12543,身受,精熟,第7級,,3,2,"[['身受', ['34621']]]",ㄕㄣ ㄕㄡˋ,shēnshòu,FALSE,to feel it personally
+12546,12547,深鎖,精熟,第7級,,3,2,[],ㄕㄣ ㄙㄨㄛˇ,shēnsuǒ,FALSE,locked tight
+12558,12559,神遊,精熟,第7級,,2,0,"[['神遊', ['34740']]]",ㄕㄣˊ ㄧㄡˊ,shényóu,FALSE,journey of thought
+12566,12567,深植,精熟,第7級,,4,3,[],ㄕㄣ ㄓˊ,shēnzhí,FALSE,to deeply cultivate
+12576,12577,昇華,精熟,第7級,,6,3,"[['昇華', ['35002']]]",ㄕㄥ ㄏㄨㄚˊ,shēnghuá,FALSE,sublimation; a metaphor for the improvement of the realm of things
+12591,12592,聲色,精熟,第7級,,5,4,"[['聲色', ['35145']]]",ㄕㄥ ㄙㄜˋ,shēngsè,FALSE,the voice and appearance when speaking; lustful music and beauty; physiognomy; information
+12609,12610,身居,精熟,第7級,,3,0,[],ㄕㄣㄐㄩ,shēnjū,FALSE,to live in
+12614,12615,使臣,精熟,第7級,,7,0,"[['使臣', ['33474']]]",ㄕˇ ㄔㄣˊ,shǐchén,FALSE,officials who travel internationally on mission; a military attache responsible for arresting criminals in the Song Dynasty; music officer of the court
+12639,12640,使力,精熟,第7級,,4,1,[],ㄕˇ ㄌㄧˋ,shǐlì,FALSE,to exert oneself
+12646,12647,士氣大振,精熟,第7級,,0,0,[],ㄕˋ ㄑㄧˋㄉㄚˋ ㄓㄣˋ,shìqìdàzhèn,FALSE,morale boosted (used in military)
+12678,12679,食指大動,精熟,第7級,,0,0,"[['食指大動', ['33350']]]",ㄕˊ ㄓˇ ㄉㄚˋ ㄉㄨㄥˋ,shízhǐdàdòng,FALSE,"to indicate that there will be something delicious to eat, or that the appetite will be whetted by delicious food"
+12689,12690,適於,精熟,第7級,,3,1,[],ㄕˋㄩˊ,shìyú,FALSE,suitable for
+12693,12694,受創,精熟,第7級,,4,2,[],ㄕㄡˋ ㄔㄨㄤ,shòuchuāng,FALSE,to be damaged
+12697,12698,受罰,精熟,第7級,,3,0,"[['受罰', ['34297']]]",ㄕㄡˋ ㄈㄚˊ,shòufá,FALSE,to get punishment
+12717,12718,首尾呼應,精熟,第7級,,0,0,[],ㄕㄡˇ ㄨㄟˇㄏㄨ ㄧㄥˋ,shǒuwěihūyìng,FALSE,to write the entire article coherently
+12755,12756,率兵,精熟,第7級,,7,1,[],ㄕㄨㄞˋ ㄅㄧㄥ,shuàibīng,FALSE,to lead the troops
+12774,12775,說詞,精熟,第7級,,4,1,[],ㄕㄨㄛ ㄘˊ,shuōcí,FALSE,words to justify oneself
+12822,12823,松林,精熟,第7級,,4,0,"[['松林', ['39279']]]",ㄙㄨㄥ ㄌㄧㄣˊ,sōnglín,FALSE,a forest full of pine trees
+12832,12833,素色,精熟,第7級,,1,1,[],ㄙㄨˋ ㄙㄜˋ,sùsè,FALSE,earth tone color 
+12846,12847,隨興,精熟,第7級,,4,2,"[['隨興', ['39184']]]",ㄙㄨㄟˊ ㄒㄧㄥˋ,suíxìng,FALSE,to do as you please
+12854,12855,所有人,精熟,第7級,,5,2,[],ㄙㄨㄛˇ ㄧㄡˇ ㄖㄣˊ,suǒyǒurén,FALSE,everyone; owner
+12857,12858,撻伐,精熟,第7級,,2,3,"[['撻伐', ['9957']]]",ㄊㄚˋ ㄈㄚ,tàfā,FALSE,conquest
+12865,12866,抬頭挺胸,精熟,第7級,,2,3,"[['抬頭挺胸', ['10048']]]",ㄊㄞˊ ㄊㄡˊ ㄊㄧㄥˇ ㄒㄩㄥ,táitóutǐngxiōng,FALSE,upright body
+12902,12903,滔天,精熟,第7級,,3,1,"[['滔天', ['10160']]]",ㄊㄠ ㄊㄧㄢ,tāotiān,FALSE,all over the sky
+12935,12936,添購,精熟,第7級,,2,3,"[['添購', ['11243']]]",ㄊㄧㄢ ㄍㄡˋ,tiāngòu,FALSE,additional purchase
+12939,12940,天昏地暗,精熟,第7級,,3,0,[],ㄊㄧㄢ ㄏㄨㄣ ㄉㄧˋ ㄢˋ,tiānhūndìàn,FALSE,dark and dull (sky); describes extreme behavior; a metaphor for political corruption and disorder of discipline
+13000,13001,同夥,精熟,第7級,,4,1,"[['同夥', ['11982']]]",ㄊㄨㄥˊ ㄏㄨㄛˇ,tónghuǒ,FALSE,accomplice
+13017,13018,桶子,精熟,第7級,,4,10,"[['桶子', ['12080']]]",ㄊㄨㄥˇ ˙ㄗ,tǒngzi,FALSE,bucket
+13052,13053,徒增,精熟,第7級,,2,1,[],ㄊㄨˊ ㄗㄥ,tú​zēng,FALSE,to increase
+13061,13062,退居,精熟,第7級,,3,1,"[['退居', ['11781']]]",ㄊㄨㄟˋ ㄐㄩ,tuìjū,FALSE,to retreat to seclusion; to be relegated to a lower position; a place to rest and sit
+13083,13084,託付,精熟,第7級,,3,1,"[['託付', ['11587']]]",ㄊㄨㄛ ㄈㄨˋ,tuōfù,FALSE,to entrust; to trust; to commission
+13133,13134,尾端,精熟,第7級,,3,2,"[['尾端', ['43460']]]",ㄨㄟˇ ㄉㄨㄢ,wěiduān,FALSE,the end of something (e.g. belt)
+13139,13140,為害,精熟,第7級,,2,1,"[['為害', ['43341']]]",ㄨㄟˊ ㄏㄞˋ,wéihài,FALSE,to cause harm
+13162,13163,娓娓道來,精熟,第7級,,3,1,"[['娓娓道來', ['43470']]]",ㄨㄟˇ ㄨㄟˇ ㄉㄠˋ ㄌㄞˊ,wěiwěidàolái,FALSE,to speak continuously without interruption
+13166,13167,為宜,精熟,第7級,,3,0,[],ㄨㄟˊ ㄧˊ,wéiyí,FALSE,subjectively believes that doing the aforementioned event is a better choice. Often used as “以...為宜”.　
+13213,13214,無懼,精熟,第7級,,3,1,[],ㄨˊ ㄐㄩˋ,wújù,FALSE,fearless
+13220,13221,無門,精熟,第7級,,3,1,[],ㄨˊㄇㄣˊ,wúmén,FALSE,no way out
+13224,13225,無奇,精熟,第7級,,2,1,[],ㄨˊ ㄑㄧˊ,wúqí,FALSE,nothing interesting
+13236,13237,無畏,精熟,第7級,,3,1,"[['無畏', ['42881']]]",ㄨˊ ㄨㄟˋ,wúwèi,FALSE,no fear; (Buddhist terms) refers to having confidence in oneself
+13245,13246,無依,精熟,第7級,,2,2,[],ㄨˊ ㄧ,wúyī,FALSE,to not rely on anything
+13247,13248,無憂,精熟,第7級,,3,1,[],ㄨˊ ㄧㄡ,wúyōu,FALSE,no worries
+13265,13266,細讀,精熟,第7級,,3,0,[],ㄒㄧˋ ㄉㄨˊ,xìdú,FALSE,"to read carefully, to peruse, to study"
+13277,13278,嬉鬧,精熟,第7級,,2,1,"[['嬉鬧', ['26320']]]",ㄒㄧ ㄋㄠˋ,xīnào,FALSE,playful and laughing
+13294,13295,嘻嘻哈哈,精熟,第7級,,2,1,[],ㄒㄧ ㄒㄧ ㄏㄚ ㄏㄚ,xīxīhāhā,FALSE,describes the sound of laughter and joy
+13296,13297,細想,精熟,第7級,,3,0,[],ㄒㄧˋ ㄒㄧㄤˇ,xìxiǎng,FALSE,to think carefully; to think over
+13300,13301,繫於,精熟,第7級,,4,1,[],ㄒㄧˋ ㄩˊ,xìyú,FALSE,be attached to
+13308,13309,下肚,精熟,第7級,,4,1,[],ㄒㄧㄚˋ ㄉㄨˋ,xiàdù,FALSE,to eat; to drink
+13318,13319,下嚥,精熟,第7級,,3,1,"[['下嚥', ['45292']]]",ㄒㄧㄚˋ ㄧㄢˋ,xiàyàn,FALSE,to swallow
+13328,13329,閒話家常,精熟,第7級,,2,1,"[['閒話家常', ['27369']]]",ㄒㄧㄢˊ ㄏㄨㄚˋ ㄐㄧㄚ ㄔㄤˊ,xiánhuàjiācháng,FALSE,to chat casually about everyday matters
+13363,13364,相告,精熟,第7級,,3,0,[],ㄒㄧㄤ ㄍㄠˋ,xiānggào,FALSE,to tell
+13371,13372,相讓,精熟,第7級,,2,0,"[['相讓', ['27902']]]",ㄒㄧㄤ ㄖㄤˋ,xiāngràng,FALSE,to be humble and give in to each other
+13376,13377,鄉野,精熟,第7級,,3,2,"[['鄉野', ['27984']]]",ㄒㄧㄤ ㄧㄝˇ,xiāngyě,FALSE,wild and remote places
+13380,13381,相知,精熟,第7級,,3,3,"[['相知', ['27893']]]",ㄒㄧㄤ ㄓ,xiāngzhī,FALSE,to interact with each other and understand each other; a close friend
+13382,13383,詳加,精熟,第7級,,3,1,[],ㄒㄧㄤˊㄐㄧㄚ,xiángjiā,FALSE,in details
+13415,13416,洩露,精熟,第7級,,4,1,"[['洩露', ['26835']]]",ㄒㄧㄝˋ ㄌㄨˋ,xièlù,FALSE,(things that should not be known) be known
+13428,13429,心不甘情不願,精熟,第7級,,2,2,[],ㄒㄧㄣ ㄅㄨˋ ㄍㄢ ㄑㄧㄥˊㄅㄨˊㄩㄢˋ,xīnbùgānqíngbúyuàn,FALSE,begrudgingly
+13432,13433,心防,精熟,第7級,,3,1,[],ㄒㄧㄣ ㄈㄤˊ,xīnfáng,FALSE,psychological defense
+13438,13439,薪火,精熟,第7級,,1,0,[],ㄒㄧㄣ ㄏㄨㄛˇ,xīnhuǒ,FALSE,torch; (Buddhist terms) body and mind
+13446,13447,心路歷程,精熟,第7級,,4,4,"[['心路歷程', ['27612']]]",ㄒㄧㄣ ㄌㄨˋ ㄌㄧˋ ㄔㄥˊ,xīnlùlìchéng,FALSE,the process in one's mind
+13447,13448,心念,精熟,第7級,,4,8,"[['心念', ['27602']]]",ㄒㄧㄣ ㄋㄧㄢˋ,xīnniàn,FALSE,longing in one's heart
+13458,13459,心窩,精熟,第7級,,2,1,"[['心窩', ['27699']]]",ㄒㄧㄣ ㄨㄛ,xīnwō,FALSE,the center of the chest; heart
+13487,13488,省思,精熟,第7級,,6,16,"[['省思', ['28282']]]",ㄒㄧㄥˇ ㄙ,xǐngsī,FALSE,reflective thinking
+13489,13490,形塑,精熟,第7級,,7,2,[],ㄒㄧㄥˊ ㄙㄨˋ,xíngsù,FALSE,to shape
+13506,13507,熊熊烈火,精熟,第7級,,0,0,[],ㄒㄩㄥˊ ㄒㄩㄥˊㄌㄧㄝˋ ㄏㄨㄛˇ,xióngxiónglièhuǒ,FALSE,strong and violent fire
+13568,13569,學養,精熟,第7級,,2,2,"[['學養', ['28524']]]",ㄒㄩㄝˊ ㄧㄤˇ,xuéyǎng,FALSE,knowledgeable and accomplished
+13576,13577,迅雷不及掩耳,精熟,第7級,,2,1,"[['迅雷不及掩耳', ['28768']]]",ㄒㄩㄣˋ ㄌㄟˊ ㄅㄨˋ ㄐㄧˊ ㄧㄢˇ ㄦˇ,xùnléibùjíyǎněr,FALSE,"the thunder suddenly sounded, and it was too late to cover your ears; a metaphor for moving so quickly and making people unprepared. "
+13577,13578,訓練有素,精熟,第7級,,4,2,[],ㄒㄩㄣˋ ㄌㄧㄢˋ ㄧㄡˇ ㄙㄨˋ,xùnliànyǒusù,FALSE,"after systematic and rigorous training, has achieved a certain level of effectiveness."
+13582,13583,勳章,精熟,第7級,,4,1,[],ㄒㄩㄣ ㄓㄤ,xūnzhāng,FALSE,"order; a visible honour awarded by a sovereign state, monarch, dynastic house or organisation to a person"
+13594,13595,壓軸,精熟,第7級,,1,1,"[['壓軸', ['40803']]]",ㄧㄚ ㄓㄡˊ,yāzhóu,FALSE,a metaphor for the most exciting and eye-catching programs or events
+13597,13598,岩壁,精熟,第7級,,3,3,"[['岩壁', ['41701']]]",ㄧㄢˊ ㄅㄧˋ,yánbì,FALSE,wall made of rock
+13606,13607,眼花撩亂,精熟,第7級,,4,3,"[['眼花撩亂', ['41813']]]",ㄧㄢˇ ㄏㄨㄚ ㄌㄧㄠˊ ㄌㄨㄢˋ,yǎnhuāliáoluàn,FALSE,describes blurry eyes and confusion
+13608,13609,沿街,精熟,第7級,,3,2,"[['沿街', ['41688']]]",ㄧㄢˊ ㄐㄧㄝ,yánjiē,FALSE,close to the street
+13613,13614,豔麗,精熟,第7級,,2,1,"[['豔麗', ['41921']]]",ㄧㄢˋ ㄌㄧˋ,yànlì,FALSE,bright and beautiful
+13630,13631,豔陽,精熟,第7級,,3,3,"[['豔陽', ['41923']]]",ㄧㄢˋ ㄧㄤˊ,yànyáng,FALSE,beautiful spring scenery; gorgeous sunshine
+13631,13632,研議,精熟,第7級,,1,1,"[['研議', ['41681']]]",ㄧㄢˊ ㄧˋ,yányì,FALSE,discussion
+13638,13639,揚棄,精熟,第7級,,3,1,"[['揚棄', ['42280']]]",ㄧㄤˊ ㄑㄧˋ,yángqì,FALSE,to abandon
+13648,13649,藥廠,精熟,第7級,,5,3,"[['藥廠', ['41176']]]",ㄧㄠˋ ㄔㄤˇ,yàochǎng,FALSE,pharmaceutical factory
+13662,13663,要脅,精熟,第7級,,2,1,"[['要脅', ['41023']]]",ㄧㄠ ㄒㄧㄝˊ,yāoxié,FALSE,to rely on something to force others to obey
+13670,13671,野心勃勃,精熟,第7級,,3,1,"[['野心勃勃', ['40902']]]",ㄧㄝˇ ㄒㄧㄣ ㄅㄛˊ ㄅㄛˊ,yěxīnbóbó,FALSE,describes arrogance or lofty ambitions
+13681,13682,一臂之力,精熟,第7級,,3,2,"[['一臂之力', ['39976']]]",ㄧˊ ㄅㄧˋ ㄓ ㄌㄧˋ,yíbìzhīlì,FALSE,the strength of one arm; a metaphor for aid given from one's side
+13692,13693,一動也不動,精熟,第7級,,0,0,[],ㄧˊ ㄉㄨㄥˋ ㄧㄝˇ ㄅㄨˊ ㄉㄨㄥˋ,yídòngyěbúdòng,FALSE,not moving at all
+13719,13720,一屁股,精熟,第7級,,3,0,[],ㄧˊ ㄆㄧˋ ㄍㄨˇ,yípìgǔ,FALSE,describes sitting down without hesitation; describes a large number
+13720,13721,藝品,精熟,第7級,,2,5,"[['藝品', ['40729']]]",ㄧˋ ㄆㄧㄣˇ,yìpǐn,FALSE,"creative finished products of arts, crafts, etc."
+13722,13723,意氣,精熟,第7級,,3,1,"[['意氣', ['40674']]]",ㄧˋ ㄑㄧˋ,yìqì,FALSE,state of mind; kindness and friendship
+13737,13738,一聲令下,精熟,第7級,,2,2,"[['一聲令下', ['40191']]]",ㄧˋ ㄕㄥ ㄌㄧㄥˋ ㄒㄧㄚˋ,yìshēnglìngxià,FALSE,to give order
+13753,13754,藝文,精熟,第7級,,5,4,"[['藝文', ['40741']]]",ㄧˋ ㄨㄣˊ,yìwén,FALSE,generally refers to art and literature
+13767,13768,依樣,精熟,第7級,,3,1,[],ㄧ ㄧㄤˋ,yīyàng,FALSE,as before 
+13773,13774,一隅,精熟,第7級,,4,1,"[['一隅', ['40237']]]",ㄧˋ ㄩˊ,yìyú,FALSE,a corner
+13776,13777,一朝,精熟,第7級,,3,2,"[['一朝', ['40158']]]",ㄧˋ ㄓㄠ,yìzhāo,FALSE,suddenly one day
+13793,13794,引介,精熟,第7級,,3,2,"[['引介', ['42116']]]",ㄧㄣˇ ㄐㄧㄝˋ,yǐnjiè,FALSE,to introduce
+13830,13831,迎向,精熟,第7級,,4,4,"[['迎向', ['42458']]]",ㄧㄥˊ ㄒㄧㄤˋ,yíngxiàng,FALSE,to step forward and welcome
+13833,13834,影藝,精熟,第7級,,6,0,[],ㄧㄥˇ ㄧˋ,yǐngyì,FALSE,film and arts
+13838,13839,硬仗,精熟,第7級,,3,1,"[['硬仗', ['42566']]]",ㄧㄥˋ ㄓㄤˋ,yìngzhàng,FALSE,a tough war
+13842,13843,擁立,精熟,第7級,,4,0,[],ㄩㄥˇ ㄌㄧˋ,yǒnglì,FALSE,to support and establish
+13851,13852,有礙,精熟,第7級,,3,1,[],ㄧㄡˇ ㄞˋ,yǒuài,FALSE,impaired
+13853,13854,右臂,精熟,第7級,,3,0,[],ㄧㄡˋ ㄅㄧˋ,yòubì,FALSE,the right arm; used to represent the key part of things
+13862,13863,有鑑於此,精熟,第7級,,2,0,"[['有鑑於此', ['41454']]]",ㄧㄡˇ ㄐㄧㄢˋ ㄩˊ ㄘˇ,yǒujiànyúcǐ,FALSE,to be aware and alert to this matter
+13874,13875,有生之年,精熟,第7級,,4,3,"[['有生之年', ['41489']]]",ㄧㄡˇ ㄕㄥ ㄓ ㄋㄧㄢˊ,yǒushēngzhīnián,FALSE,the rest of one's life
+13888,13889,悠遊,精熟,第7級,,2,5,"[['悠遊', ['45359']]]",ㄧㄡ ㄧㄡˊ,yōuyóu,FALSE,to find amusement in one's own way
+13923,13924,鬱鬱,精熟,第7級,,5,2,"[['鬱鬱', ['44562']]]",ㄩˋ ㄩˋ,yùyù,FALSE,sullen
+13928,13929,遠播,精熟,第7級,,3,1,"[['遠播', ['44862']]]",ㄩㄢˇ ㄅㄛˋ,yuǎnbò,FALSE,to spread everywhere
+13955,13956,源源,精熟,第7級,,3,2,[],ㄩㄢˊ ㄩㄢˊ,yuányuán,FALSE,continuous flow
+13988,13989,讚譽,精熟,第7級,,4,1,"[['讚譽', ['37282']]]",ㄗㄢˋ ㄩˋ,zànyù,FALSE,to praise
+14002,14003,造影,精熟,第7級,,9,0,[],ㄗㄠˋㄧㄥˇ,zàoyǐng,FALSE,to perform X-ray
+14021,14022,宅邸,精熟,第7級,,13,1,[],ㄓㄞˊ ㄉㄧˇ,zháidǐ,FALSE,mansion
+14028,14029,戰果,精熟,第7級,,4,0,"[['戰果', ['29895']]]",ㄓㄢˋ ㄍㄨㄛˇ,zhànguǒ,FALSE,results of the battle
+14050,14051,章法,精熟,第7級,,4,1,"[['章法', ['30114']]]",ㄓㄤ ㄈㄚˇ,zhāngfǎ,FALSE,"organizational layout of the article, method of arranging the text on the seal, steps and rules for doing things"
+14065,14066,召來,精熟,第7級,,3,0,[],ㄓㄠˋ ㄌㄞˊ,zhàolái,FALSE,to ask someone to come to help in a difficult situation
+14104,14105,震天,精熟,第7級,,3,1,[],ㄓㄣˋ ㄊㄧㄢ,zhèntiān,FALSE,describes a sound that is so powerful that it can shake the sky
+14107,14108,真義,精熟,第7級,,3,0,"[['真義', ['29998']]]",ㄓㄣ ㄧˋ,zhēnyì,FALSE,true meaning
+14134,14135,正題,精熟,第7級,,3,0,[],ㄓㄥˋ ㄊㄧˊ,zhèngtí,FALSE,"theme, main content"
+14136,14137,正途,精熟,第7級,,3,1,"[['正途', ['30364']]]",ㄓㄥˋ ㄊㄨˊ,zhèngtú,FALSE,right way
+14163,14164,智慧型,精熟,第7級,,7,7,[],ㄓˋ ㄏㄨㄟˋ ㄒㄧㄥˊ,zhìhuìxíng,FALSE,"smart (phone, building, gadget, etc.)"
+14182,14183,志士,精熟,第7級,,4,1,"[['志士', ['29305']]]",ㄓˋ ㄕˋ,zhìshì,FALSE,people with ideals and ambitions
+14186,14187,直挺挺,精熟,第7級,,3,1,"[['直挺挺', ['28996']]]",ㄓˊ ㄊㄧㄥˇ ㄊㄧㄥˇ,zhítǐngtǐng,FALSE,describes a stiff body
+14193,14194,執行不力,精熟,第7級,,0,0,[],ㄓˊ ㄒㄧㄥˊㄅㄨˊ ㄌㄧˋ,zhíxíngbúlì,FALSE,poor execution
+14196,14197,志業,精熟,第7級,,4,22,"[['志業', ['29307']]]",ㄓˋ ㄧㄝˋ,zhìyè,FALSE,"to focus on one's career, ambition"
+14205,14206,直指,精熟,第7級,,4,1,[],ㄓˊ ㄓˇ,zhízhǐ,FALSE,"to state it directly, without any hint of concealment."
+14209,14210,隻字片語,精熟,第7級,,0,0,"[['隻字片語', ['28979']]]",ㄓ ㄗˋ ㄆㄧㄢˋ ㄩˇ,zhīzìpiànyǔ,FALSE,very brief speech or writing.
+14215,14216,終歸,精熟,第7級,,2,1,"[['終歸', ['31235']]]",ㄓㄨㄥ ㄍㄨㄟ,zhōngguī,FALSE,"in the end, after all"
+14225,14226,終其一生,精熟,第7級,,6,3,[],ㄓㄨㄥ ㄑㄧˊ ㄧˋ ㄕㄥ,zhōngqíyìshēng,FALSE,to spend his whole life doing something or accomplishing a goal
+14229,14230,眾所皆知,精熟,第7級,,2,2,[],ㄓㄨㄥˋ ㄙㄨㄛˇ ㄐㄧㄝ ㄓ,zhòngsuǒjiēzhī,FALSE,well known
+14241,14242,終至,精熟,第7級,,3,1,[],ㄓㄨㄥ ㄓˋ,zhōngzhì,FALSE,to the point that
+14261,14262,註明,精熟,第7級,,5,1,"[['註明', ['30708']]]",ㄓㄨˋ ㄇㄧㄥˊ,zhùmíng,FALSE,to document clearly
+14270,14271,主政,精熟,第7級,,4,2,[],ㄓㄨˇ ㄓㄥˋ,zhǔzhèng,FALSE,to lead a government
+14275,14276,專精,精熟,第7級,,5,3,"[['專精', ['30917']]]",ㄓㄨㄢ ㄐㄧㄥ,zhuānjīng,FALSE,"concentrate and stay focused, good at"
+14286,14287,專文,精熟,第7級,,3,0,[],ㄓㄨㄢ ㄨㄣˊ,zhuānwén,FALSE,an article written specifically on a certain issue
+14303,14304,追根究柢,精熟,第7級,,5,1,"[['追根究柢', ['30852']]]",ㄓㄨㄟ ㄍㄣ ㄐㄧㄡˋ ㄉㄧˇ,zhuīgēnjiùdǐ,FALSE,to investigate and explore the root of things
+14321,14322,逐字,精熟,第7級,,2,1,[],ㄓㄨˊㄗˋ,zhúzì,FALSE,word by word 
+14336,14337,自憐,精熟,第7級,,4,0,"[['自憐', ['36808']]]",ㄗˋ ㄌㄧㄢˊ,zìlián,FALSE,self-pity
+14351,14352,自許,精熟,第7級,,2,2,"[['自許', ['36849']]]",ㄗˋ ㄒㄩˇ,zìxǔ,FALSE,"self-expectation, self-confidence"
+14354,14355,自已,精熟,第7級,,5,2,[],ㄗˋ ㄧˇ,zìyǐ,FALSE,to restrain oneself
+14374,14375,走下坡,精熟,第7級,,4,2,"[['走下坡', ['37231']]]",ㄗㄡˇ ㄒㄧㄚˋ ㄆㄛ,zǒuxiàpō,FALSE,a metaphor for things going from bad to worse
+14377,14378,奏章,精熟,第7級,,8,0,[],ㄗㄡˋ ㄓㄤ,zòuzhāng,FALSE,(In ancient times) officials reported to the king
+14413,14414,坐視,精熟,第7級,,3,1,"[['坐視', ['37476']]]",ㄗㄨㄛˋ ㄕˋ,zuòshì,FALSE,"to just watch and ignore, to sit back and watch"
+14414,14415,作詩,精熟,第7級,,4,0,[],ㄗㄨㄛˋ ㄕ,zuòshī,FALSE,to compose and write poetry
