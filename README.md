@@ -21,6 +21,10 @@ The translation is done mainly using Python code and the CC-CEDICT database. How
 
 Please feel free to use it. Hope you enjoy language learning. If there are errors, feel free to contact me as well.
 
+# Hats off to
+
+Patrick Pei and his repo https://github.com/patrickpei/pycccedict. I use your code a lot.
+
 # Why am I doing this
 
 Beginner's word lists are plenty, but when you are stuck at the intermediate level, you finally realize that you need a more comprehensive word list to accommodate your continuation of the learning journey. You finally found out that you heard the word 飆車 and wondered why you hadn't known about the character 飆 before.
