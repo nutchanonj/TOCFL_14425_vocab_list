@@ -23,7 +23,9 @@ Please feel free to use it. Hope you enjoy language learning. If there are error
 
 # Hats off to
 
-Patrick Pei and his repo https://github.com/patrickpei/pycccedict. I use your code a lot.
+1. Patrick Pei and his repo https://github.com/patrickpei/pycccedict. I use your code a lot.
+2. The one who creates the CC-CEDICT.
+3. 國家教育研究院
 
 # Why am I doing this
 
