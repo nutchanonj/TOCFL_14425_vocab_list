@@ -2,7 +2,7 @@
 
 This GitHub repository contains the TOCFL vocabulary list with English translation and its building Python files according to the comprehensive official vocabulary list for the TOCFL test by Taiwan's National Academy for Educational Research (國家教育研究院 or 國教院 for short). The file comprises 14425 words from all difficulties and their meaning. Primarily, the definition in this vocabulary list refers to the CC-CEDICT, on which MDBG and Pleco rely.
 
-You can download that file () directly.
+You can download that file (TOCFL_14425_word_list.xlsx) directly.
 
 # In details
 
