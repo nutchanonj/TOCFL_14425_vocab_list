@@ -15,8 +15,8 @@ The 8000 words listed by the SC-TOP already have their English translation, and 
 
 The translation is done mainly using Python code and the CC-CEDICT database. However, there are some important difficulties that I want to list here:
 
-1. Around 380 words are not in the CC-CEDICT database, so I need to do the translation manually by looking at other dictionary websites (mostly from the dictionary of Taiwan's Ministry of Education, but some are also from Zdic, Baidu, etc.) You can see the word list that I have to do manual translation in out_loss_trans.csv. I have tried my best to do those translations.
-2. Some words have different readings between Mainland and Taiwanese versions. Some Mainland Mandarin words have one-to-one reading correspondence with Taiwanese Mandarin words. Some have two-to-one reading correspondence. I have tried my best to translate those words accordingly, and I'm not a linguistic person, so please expect some errors.
+1. Around 380 words are not in the CC-CEDICT database, so I need to do the translation manually by looking at other dictionary websites (mostly from the dictionary of Taiwan's Ministry of Education, but some are also from Zdic, Baidu, etc). You can see the word list that I have to do manual translation in out_loss_trans.csv. I have tried my best to do those translations.
+2. Some words have different readings between the Mainland and Taiwanese versions. Some Mainland Mandarin words have one-to-one reading correspondence with Taiwanese Mandarin words. Some have two-to-one reading correspondences. I have tried my best to translate those words accordingly, and I'm not a linguistic person, so please expect some errors.
 3. You can see how the translation is done in detail in the dev.py file. I will do the documentation later if there are interesting people who come and ask how I got this translation.
 
 Please feel free to use it. Hope you enjoy language learning. If there are errors, feel free to contact me as well.
@@ -29,9 +29,9 @@ Please feel free to use it. Hope you enjoy language learning. If there are error
 
 # Why am I doing this
 
-Beginner's word lists are plenty, but when you are stuck at the intermediate level, you finally realize that you need a more comprehensive word list to accommodate your continuation of the learning journey. You finally found out that you heard the word 飆車 and wondered why you hadn't known about the character 飆 before.
+Beginner's word lists are plenty, but when you are stuck at the intermediate level, you finally realize that you need a more comprehensive word list to continue your learning journey. You finally found out that you heard the word 飆車 and wondered why you hadn't known about the character 飆 before.
 
-Of course, you can learn Chinese gradually by just remembering the words when you first encounter them. Still, it would be better (from my personal point of view) to learn in two ways: learn the word from the vocab list, so you still have some hints, and learn it from real life so you know how to actually use that word.
+Of course, you can learn Chinese gradually by just remembering the words when you first encounter them. Still, it would be better (from my personal point of view) to learn in two ways: learn the word from the vocab list, so you still have some hints, and learn it from real life, so you know how to actually use that word.
 
 So this is why I translated those 14425 words and shared them here.
 
